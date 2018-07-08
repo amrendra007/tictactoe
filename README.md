@@ -15,7 +15,7 @@ it will mark 0 there, i call this system defending strategy.
 
 And in rest cases, system will take some intelligent move according to how user is playing
 
-![](../pic.png)
+![](https://drive.google.com/open?id=184i_HTA5WMGiJfwQa1uvVgvm_DQiRp6A)
 
 
 Live here <https://amrendra007.github.io/tictactoe/>
